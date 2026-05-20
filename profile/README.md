@@ -15,6 +15,12 @@ you're in the right place.
 | [pcd-gitops-examples](https://github.com/Platform9-Community/pcd-gitops-examples) | Reference repo for PCD GitOps examples |
 | [terraform](https://github.com/Platform9-Community/terraform) | Terraform configurations and examples for PCD |
 
+## Community Repositories
+
+| Repository | Description |
+|---|---|
+| [PF9-Mngt](https://github.com/erezrozenbaum/pf9-mngt) | A self-hosted operational layer designed for engineering teams managing multi-tenant cloud environments at scale. Built to solve real Day-2 operational gaps in Platform9 / OpenStack environments at MSP scale. |
+
 
 
 ## What Is Private Cloud Director?
